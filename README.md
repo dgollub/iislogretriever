@@ -10,7 +10,8 @@ This tool is build using the [D Programming Language](https://dlang.org/) using 
 If you want to compile this on your own, simply download and install a recent D package (on Windows you can use [Chocolately](https://chocolatey.org/) to do so), and run the following command
 
 ```bash
-dub build```
+dub build
+```
 
 to compile the tool. The compiled binary will be in the `build` directory.
 
