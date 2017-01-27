@@ -7,5 +7,5 @@
 	"copyright": "Copyright © 2017, 倉重ゴルプ　ダニエル",
 	"license": "proprietary",
     "targetPath": "build",
-    "targetName": "iislogsretriever.exe"
+    "targetName": "iislogsretriever"
 }
