@@ -18,7 +18,7 @@ to compile the tool. The compiled binary will be in the `build` directory.
 
 # Usage
 
-Example: run `iislogsretriever.exe --start "2016-11-01" --end "2017-01-31"` to get all the IIS logs for all websites between Nov 1st 2016 and Jan 31st 2017.
+Example: run `iislogretriever.exe --start "2016-11-01" --end "2017-01-31"` to get all the IIS logs for all websites between Nov 1st 2016 and Jan 31st 2017.
 
 The log file folder is assumed to be in `%SystemDrive%\inetpub\logs\LogFiles` if not specified as argument (`--logfolder`). Additional parameters are as follows:
 

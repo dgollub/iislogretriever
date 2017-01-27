@@ -1,11 +1,12 @@
 {
-	"name": "iislogsretriever",
+	"name": "iislogretriever",
 	"authors": [
-		"倉重ゴルプ　ダニエル"
+		"倉重ゴルプ　ダニエル (Daniel Kurashige-Gollub)"
 	],
+    "homepage": "https://github.com/dgollub/iislogretriever",
 	"description": "Retrieve IIS log files for a date range and zip them up",
-	"copyright": "Copyright © 2017, 倉重ゴルプ　ダニエル",
+	"copyright": "Copyright © 2017, 倉重ゴルプ　ダニエル (Daniel Kurashige-Gollub)",
 	"license": "proprietary",
     "targetPath": "build",
-    "targetName": "iislogsretriever"
+    "targetName": "iislogretriever"
 }
