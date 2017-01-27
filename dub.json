@@ -1,0 +1,11 @@
+{
+	"name": "iislogsretriever",
+	"authors": [
+		"倉重ゴルプ　ダニエル"
+	],
+	"description": "Retrieve IIS log files for a date range and zip them up",
+	"copyright": "Copyright © 2017, 倉重ゴルプ　ダニエル",
+	"license": "proprietary",
+    "targetPath": "build",
+    "targetName": "iislogsretriever.exe"
+}
