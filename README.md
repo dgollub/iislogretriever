@@ -35,6 +35,8 @@ Out of these only `--start` must be set. Everything else is optional.
 
 * If the default IIS log files folder was changed, you will need to specify with the command line argument `--logfolder`.
 * If you set up individual log folders for sites, you will need to run the tool separately on those. There is no autodetection for this (yet).
+* You may need an elevated command prompt (aka `Run As Administrator`) to execute this tool on Windows, so you don't get any read permission errors on the logs folders and files.
+* Currently the resulting ZIP file is not compressed. Need to add proper compression.
 
 
 # Contributions
