@@ -101,6 +101,7 @@ version(Windows)
             // Create an ArchiveMember for the test file.
             ArchiveMember am = new ArchiveMember();
             am.name = archiveEntryName;
+            am.compressionMethod = CompressionMethod.deflate;
             am.expandedData(cast(ubyte[])data);
             // Create an archive and add the member.
             zip.addMember(am);
